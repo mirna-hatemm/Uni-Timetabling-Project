@@ -1,0 +1,2 @@
+In unitime project when a user (student or instructor ) forgets his password and tries to login he uses the option of “forgot password” which ask him to enter his email address to receive a link to restore his password or a temporarily password to use to login then change it but what if he cant access his email address right now ?
+so we will add a feature of accepting this link or temporarily password on the mobile number as a “SMS” 
